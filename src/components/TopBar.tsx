@@ -41,7 +41,7 @@ export function TopBar({ settings, onSettings, locked }: Props) {
           </span>
           <span className="brand__text">
             <b>Контроль кассовой дисциплины</b>
-            <span>ForteBank · Datathon 26</span>
+            <span>ForteBank</span>
           </span>
         </a>
 
